@@ -29,7 +29,7 @@ I enjoy building scalable and clean web applications using Django, and I'm equal
 - REST API Versioning and Throttling
 - Deployment using Docker & Heroku
 - Advanced Data Structures in Python
----
+----
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ShwetaPatil&theme=tokyonight&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShwetaPatil&theme=tokyonight)
