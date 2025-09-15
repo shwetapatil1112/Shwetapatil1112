@@ -6,7 +6,7 @@ Hi, I'm **Shweta Dhananjay Patil** — a passionate Python developer with a stro
 
 I enjoy building scalable and clean web applications using Django, and I'm equally passionate about improving my problem-solving skills through DSA. I’m currently focused on leveling up my backend skills and deploying real-world projects that make an impact.
 > _“Code with logic, scale with structure.”_
----
+----
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
