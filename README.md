@@ -1,6 +1,6 @@
 # 👩‍💻 About Me
 
-Hi, I'm **Shweta Dhananjay Patil** — a passionate Python developer with a strong foundation in Django and Data Structures.
+Hi, I'm **Shweta Dhananjay Patil** — a passionate Python developer with a strong foundation in Django and Data Structure.
 
 🎓 MCA Graduate | 🐍 Python Enthusiast | 🌐 Backend Developer
 
