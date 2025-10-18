@@ -8,6 +8,7 @@ I enjoy building scalable and clean web applications using Django, and I'm equal
 > _“Code with logic, scale with structure.”_
 ----
 
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 ---
